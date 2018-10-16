@@ -11,10 +11,17 @@
   background-color: #3949ab !important;
 }
 
+
+#navbarContent{
+    text-align: center;
+}
+
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
     background: #3949ab !important;
   }
+
+
 }
 
 #intro .h6 {
@@ -23,7 +30,7 @@
 }
 
 .hm-gradient .full-bg-img {
-  background: rgba(57,73,171, 0.963);
+  background: rgba(57,73,171, 0.93);
 
 }
 
