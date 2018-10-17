@@ -6,6 +6,7 @@
 .top-nav-collapse {
   background-color: #3949ab !important;
   position:relative;
+  width:100%;
 }
 
 .navbar:not(.top-nav-collapse) {
