@@ -5,10 +5,12 @@
 
 .top-nav-collapse {
   background-color: #3949ab !important;
+  position:relative;
 }
 
 .navbar:not(.top-nav-collapse) {
   background-color: #3949ab !important;
+  position:relative;
 }
 
 #navbarContent{
