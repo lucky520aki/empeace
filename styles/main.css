@@ -15,6 +15,10 @@
   text-align: center;
 }
 
+.dropdown-menu a:hover { 
+  background: #3949ab !important;
+}
+
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
